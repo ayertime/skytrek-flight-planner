@@ -1,0 +1,10 @@
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+pydeck>=0.8.0
+matplotlib>=3.7.0
+requests>=2.31.0
+
+# Optional - enables live Google Flights search.
+# The app runs without it and falls back to simulated results.
+google-search-results>=2.4.2
