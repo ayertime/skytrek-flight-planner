@@ -102,11 +102,14 @@ type, and region. Included in this repo as `data/airports.csv` (~6 MB).
 
 ## Project Origin
 
-Originally built as the final project for **CS 230 at Bentley University**, where the
-brief was to build an interactive, data-driven Streamlit application that tells a story
-with a real-world dataset. This repository is a cleaned-up release of that project:
-credentials moved out of source, data paths made portable, and the code and
-documentation prepared for public use.
+Originally built as the final project for **CS 230 at Bentley University**. The brief
+asked for an interactive Streamlit app with a chart and a map; this project went well
+beyond that scope, adding live API integration, IP-based geolocation, a stateful
+booking cart, and generated boarding passes.
+
+This repository is a cleaned-up release of that project: credentials moved out of
+source, data paths made portable, and the code and documentation prepared for
+public use.
 
 ## AI Assistance
 
